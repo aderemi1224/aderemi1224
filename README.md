@@ -8,9 +8,12 @@ ___
 
 
 🔧 Take a glance at my Projects
--- Data Analysis --
+--Data Analysis--
+
 [Movie Analysis]('https://github.com/aderemi1224/aderemi-oluwadamilola-portfolio/tree/main/SQL/movie_script')
+
 [Maven Restuarant Analysis]('https://github.com/aderemi1224/aderemi-oluwadamilola-portfolio/tree/main/SQL/restuarant_script')
+
 [Moja Project]('https://github.com/aderemi1224/aderemi-oluwadamilola-portfolio/tree/main/PYTHON/moja_project')
 
 -- Machine Learning --
