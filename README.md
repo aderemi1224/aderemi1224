@@ -22,7 +22,7 @@ ___
 
 [Ebay Books Analysis](https://github.com/aderemi1224/aderemi-oluwadamilola-portfolio/blob/main/PYTHON/webscrapped_data/EBAY%20Data%20-%20Webscrapping.ipynb)
 
-[Sales Prediction]
+[Sales Prediction](https://github.com/aderemi1224/Sales_Prediction_Model)
 
 ___
 ### 🔧 AREA OF EXPERTISE
