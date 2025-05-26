@@ -22,6 +22,8 @@ ___
 
 [Ebay Books Analysis](https://github.com/aderemi1224/aderemi-oluwadamilola-portfolio/blob/main/PYTHON/webscrapped_data/EBAY%20Data%20-%20Webscrapping.ipynb)
 
+[Sales Prediction]
+
 ___
 ### 🔧 AREA OF EXPERTISE
 **TECHNICAL SKILLS:** Data Analysis and Visualization | Database Management System (SQL) | Machine Learning Libraries | Statistical Analysis | Microsoft Office Suite | Collaboration and Version Control | Python Programming
