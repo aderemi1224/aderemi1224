@@ -32,10 +32,13 @@ ___
 ___
 #### 🧠 Experience
 👨‍💻 Data Analyst | Lafarge Africa Plc, Nigeria 2024-Present
+
 👨‍💻 Data Scientist | Foodimetric, Nigeria. Feb 2023 - Present
+
 🎓 Data Analyst Intern | Farmspeaks, Nigeria. Aug 2022- Jan 2023
 ___
 
 #### 🧠 Education
 👨‍💻 Post Graduate Diploma in Information Technology  Lead City University, Nigeria (In view)
+
 🎓 Bachelor of Science (B. Sc.) in Nutrition and Dietetics Federal University of Agriculture Abeokuta, Nigeria
